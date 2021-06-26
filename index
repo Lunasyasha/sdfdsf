@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+  <head>
+      <link rel="stylesheet" href="style.css"> 
+    <title>Сучка</title>
+  </head>
+  <body>
+    <h1>Даша воняет псиной</h1>
+    <img src="1.jpg">
+  </body>
+</html>
